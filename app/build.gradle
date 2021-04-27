@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.avalitov.ageconverter"
-        minSdkVersion 16
+        minSdkVersion defaultMinSdkVersion
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
